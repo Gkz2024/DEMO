@@ -4,8 +4,4 @@
     </head>
     <body>
         <h1>CodeIgniter 2 Tutorial</h1>
-        <strong>
-            &copy; 2011
-        </strong>
-    </body>
-</html>
+
